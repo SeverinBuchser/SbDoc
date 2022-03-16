@@ -1,0 +1,21 @@
+{
+  "name": "sb-doc",
+  "version": "1.0.0",
+  "description": "A documentation tool to write markdown documentation.",
+  "main": "src/index.js",
+  "author": "Severin Buchser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeverinBuchser/SbDoc.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc-api": "^7.1.1"
+  },
+  "keywords": [
+    "doc",
+    "sb",
+    "documentation",
+    "jsdoc"
+  ]
+}
